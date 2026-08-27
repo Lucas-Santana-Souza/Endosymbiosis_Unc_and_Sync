@@ -15,11 +15,11 @@ https://doi.org/10.1101/2025.10.19.683235
 ### CarveFungi models are within the sub-folder 'ext_int_models_CarveFungiEndo'
 
 
-# To run simulations for:
-## Growth rate of Host and Guest as Free Living, run the Script within 'Script_to_Calculate_Growth_from_Unc_to_Sync'
-## Uncoordinated Growth, run the Script within 'Script_to_Calculate_Growth_from_Unc_to_Sync'
-## Synchronized  Growth, run the Script within 'Script_to_Calculate_Synchronized_Growth'
-## Growth from Uncoordinated to synchronized Growth, run the Script within 'Script_to_Calculate_Growth_from_Unc_to_Sync'
+## To run simulations for:
+### Growth rate of Host and Guest as Free Living, run the Script within 'Script_to_Calculate_Growth_from_Unc_to_Sync'
+### Uncoordinated Growth, run the Script within 'Script_to_Calculate_Growth_from_Unc_to_Sync'
+### Synchronized  Growth, run the Script within 'Script_to_Calculate_Synchronized_Growth'
+### Growth from Uncoordinated to Synchronized Growth, run the Script within 'Script_to_Calculate_Growth_from_Unc_to_Sync'
 
 
-# To run those simulations, ensure the functions within the folder 'Functions_Needed_To_Run_Script' are in the same directory.
+## To run those simulations, ensure the functions within the folder 'Functions_Needed_To_Run_Script' are in the same directory.
