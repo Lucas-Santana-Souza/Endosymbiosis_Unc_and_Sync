@@ -9,9 +9,10 @@ https://doi.org/10.1101/2025.10.19.683235
 
 
 ## ABOUT THE DATA:
-### The folder 'Metabolic_Models' contains the metabolic models from AGORA and CarveMe.
+### The folder 'Metabolic_Models' contains the metabolic models from AGORA, CarveMe, and CarveFungi.
 ### AGORA   models are within the sub-folder 'ext_int_models_Agora'.
 ### CarveMe models are within the sub-folder 'ext_int_models_CarveMe'
+### CarveFungi models are within the sub-folder 'ext_int_models_CarveFungi'
 
 
 # To run simulations for:
