@@ -1,5 +1,7 @@
 # Endosymbiosis_Unc_and_Sync
-## 2025/10/21 - Author: Lucas Santana Souza
+## Author: Lucas Santana Souza
+## Created on 2025/10/21
+## Updates on 2026/08/27
 
 Here you will find the MATLAB code and data used in the work:
 Title: Endosymbiosis: metabolic trade-offs drive reproductive synchronization
